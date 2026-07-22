@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+/vendor/
+
+tecnoFeria-completo.zip
+*.zip
+
+tecnoferia.sql
+*.sql
+
+.DS_Store
+Thumbs.db
